@@ -1,4 +1,7 @@
 hello
+goodbye
+
 def hi():
 	print("hi")
+
 
